@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "a7755d61cf0b95f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8b674025b46dc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git操作.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "537121fb67f56eb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5519235696711e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b5be2ad54e7e09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f3953a2681311c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 157
+  },
+  "right": {
+    "id": "d8dff1127ed87649",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3f90f63852b58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd4ec7c7fa716c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b65929a2f59be54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git操作.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225
+  },
+  "active": "ac8b674025b46dc8",
+  "lastOpenFiles": [
+    "git操作.md",
+    "Java面试/Java基础.md",
+    "Java面试/24种设计模式.md",
+    "C++ 造数据.md",
+    "算法/排序算法/归并排序.md",
+    "Java面试/tip点.md",
+    "操作系统期末白给复习.md",
+    "数据库期末白给复习.md",
+    "C++语言学习.md",
+    "Markdown基本语法.md"
+  ]
+}
